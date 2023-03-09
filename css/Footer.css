@@ -58,7 +58,8 @@
 
 .Set_1
 {
-    
+    display: flex;
+    flex-direction: column;
     width: 53%;   
     height: 200px; 
     background: #161818;
@@ -70,6 +71,10 @@
 
 }
 
+a
+{
+    color: white;
+}
 
 .Set_2
 {
@@ -90,7 +95,7 @@
     display: inline-flex;
     padding: 0%;
     margin: 0%;
-    color: white
+    color: white;
     
 }
 
