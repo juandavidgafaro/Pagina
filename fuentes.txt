@@ -1,0 +1,11 @@
+* Estos son los enlaces que se pegan en la cabecera del HTML:
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Wallpoet&display=swap" rel="stylesheet">
+
+
+* Este es el tipo de fuente para el nombre de la empresa:
+    font-family: 'Wallpoet', cursive;
+
+* Este el tipo de fuente para los titulos y subtitulos de la pagina:
+    font-family: 'Candal', sans-serif;

@@ -7,6 +7,7 @@
 .Foot
 {
     background: #000000;
+    margin-bottom: 0px;
 }
 
 
@@ -48,9 +49,6 @@
     
 }
 
-
-
-
 .Set_1, .Set_2, .Set_3
 {
     font-family: 'Candal', sans-serif;
@@ -87,6 +85,7 @@ a
     color: white
     
 }
+
 .Set_3
 {
     width: 53%;   
@@ -101,11 +100,10 @@ a
 
 
 /* ----------------------------------- */
-
 .private
 {
     display: flex;
-    gap: 88%;
+    gap: 47%;
     height: 50px;
     color: white;
     font-family: 'Candal', sans-serif;
@@ -114,5 +112,19 @@ a
 
 .Reg
 {
+    display: flex;
     padding-left: 8px;
+    align-items: center;
+}
+
+.Reg img
+{
+    width: 20px;
+    height: 20px;
+}
+
+.Terms
+{
+    display:flex;
+    align-items: center;
 }
