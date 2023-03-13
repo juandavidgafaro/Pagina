@@ -1,0 +1,9 @@
+.cabecera img
+{
+    width: 1900px;
+}
+
+.header
+{
+    display: flex;
+}
