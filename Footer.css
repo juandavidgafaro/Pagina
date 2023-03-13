@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer
+{
+    margin-bottom: 0%;
+}
+
+
+.Foot
+{
+    background: #000000;
+}
+
+
+/* ---------------------------------------------- */
+.header
+{
+    display: flex;
+    gap: 7px;
+    height: 100px;
+    align-items: center;
+}
+
+.Logo
+{
+    background:black;
+    padding-left: 8px;
+}
+
+.Logo img
+{
+    width: 78px;
+    height: 68px;
+    border-radius: 40%;
+}
+
+.Name
+{
+   color: #fa0707;
+   font-size: 30px;
+   font-family: 'Wallpoet', cursive;
+}
+
+
+
+/* ------------------------------------------- */
+.info
+{
+    display: flex; 
+    
+}
+
+
+
+
+.Set_1, .Set_2, .Set_3
+{
+    font-family: 'Candal', sans-serif;
+}
+
+.Set_1
+{
+    
+    width: 53%;   
+    height: 200px; 
+    background: #161818;
+    display: inline-flex;
+    padding: 0%;
+    margin: 0%;
+    color: white;
+    padding-left: 8px;
+
+}
+
+
+.Set_2
+{
+    width: 53%;   
+    height: 200px; 
+    background: #161818;
+    display: inline-flex;
+    padding: 0%;
+    margin: 0%;
+    color: white
+    
+}
+.Set_3
+{
+    width: 53%;   
+    height: 200px; 
+    background: #161818;
+    display: inline-flex;
+    padding: 0%;
+    margin: 0%;
+    color: white
+    
+}
+
+
+/* ----------------------------------- */
+
+.private
+{
+    display: flex;
+    gap: 88%;
+    height: 50px;
+    color: white;
+    font-family: 'Candal', sans-serif;
+
+}
+
+.Reg
+{
+    padding-left: 8px;
+}
